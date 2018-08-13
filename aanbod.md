@@ -6,14 +6,13 @@ permalink: /aanbod/
 
 De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
 
-Het atelier is onderverdeeld in 3 niveau’s: 
+Het atelier is onderverdeeld in 3 niveau’s:
 
-**Groep 1** 		(eerste graad; 12-14 jarigen)  	vindt plaats op woensdag van 13 uur tot 15 uur.
-
-**Groep 2** 		(tweede graad; 14-16 jarigen)	vindt plaats op woensdag van 15 uur tot 17uur.
-
-**Groep 3** 		(derde graad; 16-18 jarigen) 	vindt plaats op woensdag van 18 uur tot 20 uur.
-
+Groep | Leeftijd | Wanneer 
+------------ | ------------ | ------------- 
+1 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+2 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 15 uur tot 17uur.
+3 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 18 uur tot 20 uur. 
  
 Lesgever: Lucas Van Hooreweghe
 
