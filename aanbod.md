@@ -20,6 +20,12 @@ Cursussen (onder voorbehoud)
 
 **JAPAN**: 19/09 – 26/09 – 3/10 – 10/10 – 17/10
 
+Kanvas atelier gaat in september van start met een allereerste periode met als centraal thema ‘Japan’.
+De japanse cultuur is ons niet meer onbekend. Films en tv-programma’s zijn de voornaamste inspiratiebron: Pokémon, Spirited Away,...
+
+Kies uit meer dan tien unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
+
+
 **WAR & PEACE**: 24/10 – 7/11 – 14/11 – 21/11 – 28/11
 
 **FANTASY & GAMES**: 9/01 – 16/01 – 23/01 – 30/01 – 6/02
