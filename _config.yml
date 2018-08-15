@@ -19,7 +19,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Broeinest', link: '/'}
   - {name: 'Wat', link: '/wat'}
   - {name: 'Aanbod', link: '/aanbod'}
   - {name: 'Waar', link: '/waar'}
