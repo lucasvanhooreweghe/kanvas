@@ -30,8 +30,6 @@ Kies uit meer dan tien unieke opdrachten: Teken zelf manga-figuren, maak je eige
 
 ![Image of Yaktocat](https://i.pinimg.com/564x/93/30/ed/9330ed27cc4add964b8815d7a6839170.jpg)
 
-<img alt="Oddish - 5 x 7 » impression (pokemon dessin, art, illustrations, jeux, nintendo…" class="_s3 _3o _2l _40" src="https://i.pinimg.com/564x/ee/18/9e/ee189ea4a4d7d8aefc650c0b72ce87cf.jpg">
-
 **WAR & PEACE**: 24/10 – 7/11 – 14/11 – 21/11 – 28/11
 
 **FANTASY & GAMES**: 9/01 – 16/01 – 23/01 – 30/01 – 6/02
