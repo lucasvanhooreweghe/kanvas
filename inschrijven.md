@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Inschrijven
-permalink: /inschrijven/
+title: Contact
+permalink: /contact/
 ---
 
-Wens je meer informatie? 
-Mail gerust naar info@kanvasatelier.be of telefoneer naar 0498 44 36 38 (Lucas Van Hooreweghe).
+Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
 
-Inschrijven kan ook via info@kanvasatelier.be of telefonisch via 0498 44 36 38.
-De contactpersoon voor het jongerenatelier in Deinze is Lucas Van Hooreweghe.
+However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
 
-**De inschrijving is pas definitief na overmaken van het inschrijvingsgeld (55 euro per periode van 5 weken) op nummer BE76 7370 4331 5795 van CITROENCITROEN CREATIEF (cfr. KANVAS ATELIER), Ringlaan Zuid 96, De Haan.** 
+Check the form below to see it in action!
 
-**Gelieve de naam van de cursist, de locatie (Deinze), de gekozen groep (vb Groep 1) en de gekozen cursus (vb JAPAN) in de mededeling te vermelden.**
+### Example Formspree contact form with validation and reCaptcha
 
-_Het minimumaantal leerlingen per cursus is vastgelegd op 7. Bij een te gering aantal inschrijvingen wordt aan de leerlingen gevraagd om zich in te schrijven bij een andere groep._
+Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+
+{% include form.html %}
+
+{% include modal.html %}
