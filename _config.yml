@@ -15,7 +15,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'BROEINEST', link: '/'}
+  - {name: 'BROEINEST', link: '/broeinest'}
   - {name: 'ATELIERS', link: '/ateliers'}
   - {name: 'INSCHRIJVEN', link: '/inschrijven'}
   - {name: 'CONTACT', link: '/contact'}
