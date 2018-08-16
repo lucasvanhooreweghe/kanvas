@@ -24,7 +24,7 @@ tagline: >
   Broeinest voor creativiteit in Deinze en omstreken
   
 
-hero_img: posts/header-image.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/hero-page-image.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@kanvasatelier.be # email for form submission
 

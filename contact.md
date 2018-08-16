@@ -29,7 +29,7 @@ Artistieke leiding en coördinatie ateliers | Lucas Van Hooreweghe | +32 498 44 
 Zakelijke leiding | Tineke Sanders  | +32 475 97 13 72
 
 
-**VORMGEVING**: Ruben Galle
+**VORMGEVING**: Ruben Galle<br />
 **FOTOGRAFIE**:	Tim Schelstraete
 
 ## LOCATIE
