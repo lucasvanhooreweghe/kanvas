@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Kanvas Atelier # your site title
+title: KANVAS ATELIER # your site title
 author: Lucas Van Hooreweghe # You :P
 description: > # Meta description of Homepage
   Ward is mega cool
@@ -15,12 +15,10 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Broeinest', link: '/'}
-  - {name: 'Wat', link: '/wat'}
-  - {name: 'Aanbod', link: '/aanbod'}
-  - {name: 'Waar', link: '/waar'}
-  - {name: 'Inschrijven', link: '/inschrijven'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'BROEINEST', link: '/'}
+  - {name: 'ATELIERS', link: '/ateliers'}
+  - {name: 'INSCHRIJVEN', link: '/inschrijven'}
+  - {name: 'CONTACT', link: '/contact'}
 
 tagline: >
   Broeinest voor creativiteit in Deinze en omstreken
