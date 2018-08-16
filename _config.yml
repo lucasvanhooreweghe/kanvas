@@ -17,6 +17,7 @@ social:
 navigation: # Navigation links
   - {name: 'BROEINEST', link: '/'}
   - {name: 'ATELIERS', link: '/ateliers'}
+  - {name: 'INSCHRIJVEN', link: '/inschrijven'}
   - {name: 'CONTACT', link: '/contact'}
 
 tagline: >
