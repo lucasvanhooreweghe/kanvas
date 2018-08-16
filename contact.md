@@ -1,17 +1,55 @@
 ---
 layout: page
-title: Inschrijven
-permalink: /inschrijven/
+title: Contact
+permalink: /contact/
 ---
 
-Wens je meer informatie? 
-Mail gerust naar info@kanvasatelier.be of telefoneer naar 0498 44 36 38 (Lucas Van Hooreweghe).
+## BROEINEST
 
-Inschrijven kan ook via info@kanvasatelier.be of telefonisch via 0498 44 36 38.
-De contactpersoon voor het jongerenatelier in Deinze is Lucas Van Hooreweghe.
+Kanvas Atelier<br/>
+Guido Gezellelaan 105<br />
+9800 Deinze
 
-**De inschrijving is pas definitief na overmaken van het inschrijvingsgeld (55 euro per periode van 5 weken) op nummer BE76 7370 4331 5795 van CITROENCITROEN CREATIEF (cfr. KANVAS ATELIER), Ringlaan Zuid 96, De Haan.** 
 
-**Gelieve de naam van de cursist, de locatie (Deinze), de gekozen groep (vb Groep 1) en de gekozen cursus (vb JAPAN) in de mededeling te vermelden.**
+## INFO
 
-_Het minimumaantal leerlingen per cursus is vastgelegd op 7. Bij een te gering aantal inschrijvingen wordt aan de leerlingen gevraagd om zich in te schrijven bij een andere groep._
+Wens je bijkomende informatie?<br/>
+Mail gerust naar <a href="mailto:info@kanvasatelier.be">info@kanvasatelier.be</a> of telefoneer naar <a href="tel:0498443638">0498 44 36 38</a> (Lucas Van Hooreweghe)
+
+## ADMINISTRATIE
+
+Postadres: CITROENCITROEN CREATIEF (cfr. KANVAS ATELIER) Ringlaan Zuid 96, DE HAAN<br />
+IBAN:  BE76 7370 4331 5795
+
+
+## MEDEWERKERS
+
+------------ | ------------ | ------------- 
+Artistieke leiding en coördinatie ateliers | Lucas Van Hooreweghe | +32 498 44 36 38
+Zakelijke leiding | Tineke Sanders  | +32 475 97 13 72
+
+
+**VORMGEVING**: Ruben Galle
+**FOTOGRAFIE**:	Tim Schelstraete
+
+## LOCATIE
+
+Het creatief broeinest voor dit werkjaar KANVAS ATELIER gaat door in de po-lokalen van Leiepoort campus Sint-Hendrik!
+
+KANVAS ATELIER LIGT IN HET CENTRUM VAN DEINZE
+
+### TREIN / BUS
+
+KANVAS ATELIER is vlot bereikbaar met het openbaar vervoer. Vanaf treinhalte Deinze ligt KANVAS ATELIER op **10 minuten wandelafstand**. Wandel het station uit en ga naar rechts. Steek het kruispunt over en ga de Guido Gezellestraat in. Aan de linkerkant zie je voor de brug de ingang van de school.
+
+De lijnbussen 14/16/73/75/77/81/83/84/86/87 houden halt in de G. Gezellelaan voor de schoolingang.
+
+
+### FIETS
+
+Een schoolroutekaart, die de veiligste fietstrajecten aangeeft, kan u downloaden van de website van Deinze (<a href="www.deinze.be" title="Deinze">www.deinze.be</a>) - veiligheid en verkeer – mobiliteit – scholenfietsroute.
+
+Er is een grote overdekte fietsenstalling.<br />
+Wij raden het dragen van een **fluohesje** sterk aan.<br />
+Hieronder een voorbeeld van de schoolroutekaart.<br />
+
