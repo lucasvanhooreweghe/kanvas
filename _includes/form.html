@@ -10,11 +10,29 @@
   </div>
 
   <div class="form__input">
+    <label for="group" style="margin-right: 1rem">Kies uw groep:</label>
+    <select id="group" name="group" required>
+      <option>eerste graad; 12-14 jarigen</option>
+      <option>tweede graad; 14-16 jarigen</option>
+      <option>derde graad; 16-18 jarigen</option>
+    </select>
+    <br />
+  </div>
+
+  <div class="form__input">
+    <label for="atelier" style="margin-right: 1rem">Kies uw atelier:</label>
+    <select id="atelier" name="atelier" required>
+      <option>Japan</option>
+    </select>
+    <br />
+  </div>
+
+  <div class="form__input">
     <label for="message">Bericht</label>
     <textarea type="text" name="message" id="message" rows="7" autocomplete="message" required></textarea>
   </div>
 
-  <input type="hidden" name="_subject" value="Website Form submission">
+  <input type="hidden" name="_subject" value="Inschrijving Kanvas Atelier">
   <input type="hidden" name="_format" value="plain" />
   <input class="hidden" type="text" name="_gotcha">
   <button class="btn js-submit" type="submit" value="Send">VERSTUUR</button>
