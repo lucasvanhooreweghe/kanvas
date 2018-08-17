@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanvas Atelier is online
-summary: Kanvas Atelier is een broeinest voor creativelingen en start vanaf anno 2019.
+summary: Wil je jouw creatieve ei kwijt? Schrijf je dan snel in voor een atelier! 
 featured-img: post-1
 ---
 
