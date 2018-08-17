@@ -1,5 +1,5 @@
 ---
-layout: equalcolumns
+layout: ateliers
 title: Ateliers
 permalink: /ateliers/
 left_section: |
