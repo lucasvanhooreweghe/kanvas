@@ -16,8 +16,7 @@ right_section: |
   
   Kies uit meer dan **tien** unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
   
-  _“Als je erover nadenkt, beslis dan. Als je hebt besloten, denk er dan niet meer over na”._
-    
+  _“Als je erover nadenkt, beslis dan. Als je hebt besloten, denk er dan niet meer over na”._ 
 ---
 
 # Atelierverwerking
