@@ -1,28 +1,23 @@
 ---
-layout: page
+layout: ateliers
 title: Ateliers
 permalink: /ateliers/
+left_section: |
+  # Atelier Japan
+
+  **Wat**: Knutselatelier met als centraal thema JAPAN<br />
+  **Voor** wie: 12- 18 jarigen<br />
+  **Waar**: Broeinest Kanvas Atelier Deinze<br />
+  **Wanneer**: 19 september tot en met 17 oktober<br />
+  **Lesgever**: Lucas Van Hooreweghe<br />
+
+right_section: |
+  Kanvas-atelier gaat in september van start met als centraal thema ‘Japan’. De Japanse cultuur is ons niet meer onbekend. Films en tv-programma’s zijn de voornaamste inspiratiebron: Pokémon, Spirited Away,…
+  
+  Kies uit meer dan **tien** unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
+  
+  _“Als je erover nadenkt, beslis dan. Als je hebt besloten, denk er dan niet meer over na”._ 
 ---
-
-
-# Atelier Japan
-
-**Wat**: Knutselatelier met als centraal thema JAPAN
-
-**Voor** wie: 12- 18 jarigen
-
-**Waar**: Broeinest Kanvas Atelier Deinze
-
-**Wanneer**: 19 september tot en met 17 oktober
-
-**Lesgever**: Lucas Van Hooreweghe
-
-Kanvas-atelier gaat in september van start met als centraal thema ‘Japan’. De Japanse cultuur is ons niet meer onbekend. Films en tv-programma’s zijn de voornaamste inspiratiebron: Pokémon, Spirited Away,…
-
-Kies uit meer dan **tien** unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
-
-
-_“Als je erover nadenkt, beslis dan. Als je hebt besloten, denk er dan niet meer over na”._
 
 # Atelierverwerking
 
