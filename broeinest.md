@@ -15,7 +15,7 @@ Kanvas atelier wil een creatief broeinest zijn voor **jongeren tussen de 12 en 1
 Er wordt gewerkt in periodes van 5 weken. Iedere periode stelt de begeleider een thema (werken rond) voor via google classroom. Google classroom biedt een online platform om lesmateriaal overzichtelijk te plaatsen.
 Binnen dit thema je jouw eigen keuzes maken in **materialen/technieken** (werken met) en **beeldaspecten** (werken aan).
 
-De opdrachten zijn zo divers om de interesse van iedereen aan te spreken. Er wordt ook op **verschillende moeilijkheidsniveau’s** gewerkt, aangeduid met een gradatie.
+De opdrachten zijn zo divers om de interesse van iedereen aan te spreken. Er wordt ook op **verschillende moeilijkheidsniveaus** gewerkt, aangeduid met een gradatie.
 Afhankelijk van de keuze bezoek je een **inspiratie-pagina met kunstbeschouwing** (Spark-page) als introductie.
 Vervolgens wordt er op verschillende manieren begeleid volgens **de leerstijlen van Kolb**.
 1.	Je kan een uitgeschreven stappenplan volgen.
