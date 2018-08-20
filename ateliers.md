@@ -14,12 +14,12 @@ left_section: |
 right_section: |
   Kanvas-atelier gaat in september van start met als centraal thema ‘Japan’. De Japanse cultuur is ons niet meer onbekend. Films en tv-programma’s zijn de voornaamste inspiratiebron: Pokémon, Spirited Away,…
   
-  Kies uit meer dan **tien** unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
+  Kies uit meer dan **tien** unieke opdrachten: Teken zelf mangafiguren, maak je eigen Japanse tote bag, kap een jizo-beeldje uit speksteen, creëer je eigen samoerai outfit,.. Je beslist zelf welke techniek of materiaal je wil uitproberen!
   
   _“Als je erover nadenkt, beslis dan. Als je hebt besloten, denk er dan niet meer over na”._ 
 ---
 
-# Atelierverwerking
+# Atelierwerking
 
 De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
 
