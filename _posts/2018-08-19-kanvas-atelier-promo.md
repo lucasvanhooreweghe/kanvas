@@ -19,8 +19,11 @@ Meer acties op komst! Volg het via instagram (@kanvasatelier) of facebook.
 Hieronder alvast de foto's van de making of - posters! 
 
 ![Kanvas Atelier Promo 1](/assets/img/posts/promo/promo_1.jpg)
+
 ![Kanvas Atelier Promo 2](/assets/img/posts/promo/promo_2.jpg)
+
 ![Kanvas Atelier Promo 3](/assets/img/posts/promo/promo_3.jpg)
+
 ![Kanvas Atelier Promo 4](/assets/img/posts/promo/promo_4.jpg)
 
 
