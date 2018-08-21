@@ -18,7 +18,7 @@ Meer acties op komst! Volg het via instagram (@kanvasatelier) of facebook.
 
 Hieronder alvast de foto's van de making of - posters! 
 
-![Broeinest 2](/Users/Frauke-Lucas/Documents/GitHub/kanvas/assets/img/promo fotoshoot/FullSizeRender 2 Cropped.jpg)
+
 
 
 Wil je ook creatief aan de slag? Ben je tussen 12 en 18 jaar? 
