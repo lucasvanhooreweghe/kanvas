@@ -5,6 +5,7 @@ summary: Benieuwd naar het allereerste thema? Ontdek hier alles over het atelier
 categories: [ateliers, japan] 
 featured-img: japan
 ---
+
 # Atelier JAPAN
 
 We starten 19 september met het thema JAPAN. 
