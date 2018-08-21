@@ -2,7 +2,7 @@
 layout: post
 title: Kanvas Atelier is online
 summary: Wil je jouw creatieve ei kwijt? Schrijf je dan snel in voor een atelier! 
-featured-img: post-1
+featured-img: grid
 ---
 
 # Kanvas Atelier is nu online
