@@ -51,5 +51,5 @@ Een schoolroutekaart, die de veiligste fietstrajecten aangeeft, kan u downloaden
 
 Er is een grote overdekte fietsenstalling.<br />
 Wij raden het dragen van een **fluohesje** sterk aan.<br />
-Hieronder een voorbeeld van de schoolroutekaart.<br />
+
 
