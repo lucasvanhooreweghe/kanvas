@@ -2,7 +2,7 @@
 title: KANVAS ATELIER # your site title
 author: Lucas Van Hooreweghe # You :P
 description: > # Meta description of Homepage
-  Ward is mega cool
+  Broeinest voor creativiteit in Deinze en omstreken
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kanvasatelier.be" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,6 +18,7 @@ navigation: # Navigation links
   - {name: 'BROEINEST', link: '/broeinest'}
   - {name: 'ATELIERS', link: '/ateliers'}
   - {name: 'INSCHRIJVEN', link: '/inschrijven'}
+  - {name: 'LOCATIE', link: '/locatie'}
   - {name: 'CONTACT', link: '/contact'}
 
 tagline: >
