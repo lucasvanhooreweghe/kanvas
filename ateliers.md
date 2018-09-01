@@ -30,4 +30,4 @@ Het atelier is onderverdeeld in 3 niveau’s:
 1 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
 2 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 15 uur tot 17uur.
 3 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 18 uur tot 20 uur.
-4 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
+4 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur.
