@@ -17,6 +17,7 @@ social:
 navigation: # Navigation links
   - {name: 'BROEINEST', link: '/broeinest'}
   - {name: 'ATELIERS', link: '/ateliers'}
+  - {name: 'KA18+', link: '/ka18plus'}
   - {name: 'INSCHRIJVEN', link: '/inschrijven'}
   - {name: 'LOCATIE', link: '/locatie'}
   - {name: 'CONTACT', link: '/contact'}
