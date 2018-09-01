@@ -31,3 +31,5 @@ Zakelijke leiding | Tineke Sanders  | <a href="tel:+32475971372">+32 475 97 13 7
 
 **VORMGEVING**: Ruben Galle<br />
 **FOTOGRAFIE**:	Tim Schelstraete
+
+

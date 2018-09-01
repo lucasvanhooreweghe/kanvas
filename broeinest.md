@@ -5,7 +5,7 @@ permalink: /broeinest/
 left_section: |
   # KANVAS ATELIER
   
-  **Kanvas wil het nieuwe broeinest worden voor creativiteit in Deinze en omstreken! Jongeren tussen 12 en 18 jaar kunnen zich inschrijven voor een atelierperiode van 5 weken met 2 uur les op woensdagnamiddag in hartje Deinze.**
+  **Kanvas wil het nieuwe broeinest worden voor creativiteit in Deinze en omstreken! Jongeren tussen 12 en 25 jaar kunnen zich inschrijven voor een atelierperiode van 5 weken met 2 uur les op woensdagnamiddag of zaterdagvoormiddag in hartje Deinze.**
   
   ![Broeinest 2](/assets/img/broeinest/broeinest_2.jpg)
   
@@ -17,7 +17,7 @@ right_section: |
 
     Kanvas wil er in de eerste plaats voor zorgen dat kunst en creativiteit leeft in Deinze. Het hoeft niet groot en opvallend te zijn.
     
-    Kanvas atelier wil een creatief broeinest worden voor **jongeren tussen de 12 en 18 jaar**. Afhankelijk van het aantal inschrijvingen wordt de groep opgedeeld in graadsschijven. De ideale groep heeft een grootte tussen de 10 en 15 jongeren. De uren per jaarschijf zijn indicatief en afhankelijk van het aantal inschrijvingen. 
+    Kanvas atelier wil een creatief broeinest worden voor **jongeren tussen de 12 en 25 jaar**. Afhankelijk van het aantal inschrijvingen wordt de groep opgedeeld in graadsschijven. De ideale groep heeft een grootte tussen de 10 en 15 jongeren. De uren per jaarschijf zijn indicatief en afhankelijk van het aantal inschrijvingen. 
     
     Er wordt gewerkt in periodes van 5 weken. Iedere periode stelt de begeleider een thema (werken rond) voor via google classroom. Google classroom biedt een online platform om lesmateriaal overzichtelijk te plaatsen.
     Binnen dit thema mag je jouw eigen keuze maken in **materialen/technieken** (werken met) en **beeldaspecten** (werken aan).
