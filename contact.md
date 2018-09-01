@@ -25,8 +25,8 @@ IBAN:  BE76 7370 4331 5795
 ## MEDEWERKERS
 
 ------------ | ------------ | ------------- 
-Artistieke leiding en coördinatie ateliers | Lucas Van Hooreweghe | +32 498 44 36 38
-Zakelijke leiding | Tineke Sanders  | +32 475 97 13 72
+Artistieke leiding en coördinatie ateliers | Lucas Van Hooreweghe | <a href="tel:+32498443638">+32 498 44 36 38</a>
+Zakelijke leiding | Tineke Sanders  | <a href="tel:+32475971372">+32 475 97 13 72</a>
 
 
 **VORMGEVING**: Ruben Galle<br />
