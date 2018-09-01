@@ -6,7 +6,7 @@ left_section: |
   # Atelier Japan
 
   **Wat**: Knutselatelier met als centraal thema JAPAN<br />
-  **Voor** wie: 12- 18 jarigen<br />
+  **Voor** wie: 12- 18+ jarigen<br />
   **Waar**: Broeinest Kanvas Atelier Deinze<br />
   **Wanneer**: 19 september tot en met 17 oktober<br />
   **Lesgever**: Lucas Van Hooreweghe<br />
