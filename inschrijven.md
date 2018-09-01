@@ -13,6 +13,9 @@ right_section: |
   Nog vragen?<br/>
   Mail gerust naar info@kanvasatelier.be<br/> 
   of bel 0498 44 36 38 (Lucas Van Hooreweghe)
+  <br />
+  <br />
+  ![Inschrijven](/assets/img/inschrijven/foto.gif)
 ---
 
 _(Hieronder het formulier om in te schrijven :))_
