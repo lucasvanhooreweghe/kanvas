@@ -6,7 +6,7 @@ permalink: /aanbod/
 
 De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
 
-Het atelier is onderverdeeld in 3 niveaus:
+Het atelier is onderverdeeld in 4 niveaus:
 
 Groep | Leeftijd | Wanneer 
 ------------ | ------------ | ------------- 

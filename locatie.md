@@ -27,7 +27,7 @@ De lijnbussen 14/16/73/75/77/81/83/84/86/87 houden halt in de G. Gezellelaan voo
 
 ### FIETS
 
-Een schoolroutekaart, die de veiligste fietstrajecten aangeeft, kan u downloaden van de website van Deinze (<a href="www.deinze.be" title="Deinze">www.deinze.be</a>) - veiligheid en verkeer – mobiliteit – scholenfietsroute.
+Een schoolroutekaart, die de veiligste fietstrajecten aangeeft, kan u downloaden van de website van Deinze - veiligheid en verkeer – mobiliteit – scholenfietsroute.
 
 Er is een grote overdekte fietsenstalling.<br />
 Wij raden het dragen van een **fluohesje** sterk aan.<br />
