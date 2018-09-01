@@ -7,7 +7,7 @@ permalink: /wat/
 Kanvas wil er in de eerste plaats voor zorgen dat kunst en creativiteit leeft in Deinze.
 Het hoeft niet groot en opvallend te zijn.
 
-Kanvas atelier wil een creatief broeinest zijn voor **jongeren tussen de 12 en 18 jaar**. Afhankelijk van het aantal inschrijvingen wordt de groep opgedeeld in graadsschijven.
+Kanvas atelier wil een creatief broeinest zijn voor **jongeren tussen de 12 en 25 jaar**. Afhankelijk van het aantal inschrijvingen wordt de groep opgedeeld in graadsschijven.
 De ideale groep heeft een grootte tussen de 10 en 20 jongeren.
 De uren per jaarschijf zijn indicatief en afhankelijk van het aantal inschrijvingen.
 

@@ -14,3 +14,4 @@ Geef een hartje of  thumbs up en mis geen enkele update!
 
 Kanvas Atelier wil een broeinest voor creativiteit in Deinze en omstreken worden.
 Ben je tussen 12 en 18 jaar? Schrijf je dan nu in voor de atelierwerking op woensdagnamiddag via deze <a href="/inschrijven" title="inschrijven">link</a>! 
+Ben je tussen 18 en 25 jaar? Schrijf je dan nu in voor de atelierwerking op zaterdagvoormiddag via deze <a href="/inschrijven" title="inschrijven">link</a>! 
