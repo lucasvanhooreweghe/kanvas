@@ -8,9 +8,9 @@ permalink: /locatie/
 
 Het creatief broeinest voor dit werkjaar KANVAS ATELIER gaat door in de po-lokalen van Leiepoort campus Sint-Hendrik!
 
-Broeinest Kanvas Atelier
-Guido Gezellelaan 105
-9800 DEINZE
+Broeinest Kanvas Atelier<br />
+Guido Gezellelaan 105<br />
+9800 DEINZE<br />
 
 KANVAS ATELIER LIGT IN HET CENTRUM VAN DEINZE
 
