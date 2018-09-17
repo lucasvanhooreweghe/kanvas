@@ -20,8 +20,7 @@ right_section: |
 
 _(Hieronder het formulier om in te schrijven :))_
 
-{% include form.html %}
+{% include googleForm.html %}
 
-{% include modal.html %}
 
 
