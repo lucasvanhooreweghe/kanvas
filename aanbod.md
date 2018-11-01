@@ -6,14 +6,15 @@ permalink: /aanbod/
 
 De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
 
-Het atelier is onderverdeeld in 4 niveaus:
+Het atelier is onderverdeeld in 5 niveaus:
 
 Groep | Leeftijd | Wanneer 
 ------------ | ------------ | ------------- 
-1 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-2 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 15 uur tot 17uur.
-3 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 18 uur tot 20 uur. 
-4 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
+1 | derde graad lager onderwijs; 10-12 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+2 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.
+3 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+4 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.  
+5 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
  
 Lesgever: Lucas Van Hooreweghe
 
@@ -31,7 +32,12 @@ Kies uit meer dan tien unieke opdrachten: Teken zelf manga-figuren, maak je eige
 
 ![Image of Yaktocat](https://i.pinimg.com/564x/93/30/ed/9330ed27cc4add964b8815d7a6839170.jpg)
 
-**WAR & PEACE**: 24/10 – 7/11 – 14/11 – 21/11 – 28/11
+**WAR & PEACE**: 7/11 – 14/11 – 21/11 – 28/11 - 5/12
+
+Na de herfstvakantie begint de tweede atelier-reeks van Kanvas Atelier. 
+Tijdens deze weken draait alles rond oorlog en vrede.
+
+"Make art, not war!"
 
 **FANTASY & GAMES**: 9/01 – 16/01 – 23/01 – 30/01 – 6/02
 
