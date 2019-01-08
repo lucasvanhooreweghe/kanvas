@@ -7,7 +7,7 @@ left_section: |
   
   Gelieve de **naam van de cursist**, de **locatie** (Deinze), de **gekozen groep** (vb derde graad lager onderwijs) en de **gekozen cursus** (vb WAR & PEACE) in de mededeling te vermelden.
   
-  _Het minimumaantal leerlingen per cursus is vastgelegd op 7. Bij een te gering aantal inschrijvingen wordt aan de leerlingen gevraagd om zich in te schrijven bij een andere groep._
+  _Het minimumaantal leerlingen per cursus is vastgelegd op 5. Bij een te gering aantal inschrijvingen wordt aan de leerlingen gevraagd om zich in te schrijven bij een andere groep._
 
 right_section: |
   Nog vragen?<br/>
