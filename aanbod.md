@@ -4,26 +4,24 @@ title: Aanbod
 permalink: /aanbod/
 ---
 
-De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
+De kostprijs voor een periode van 10 lessen (10x2 vormingsuren) is 110 euro, materiaal en verzekering inbegrepen.
 
-Het atelier is onderverdeeld in 6 niveaus:
+Het atelier is onderverdeeld in 2 niveaus:
 
 Groep | Leeftijd | Wanneer 
 ------------ | ------------ | ------------- 
-1 | tweede graad lager onderwijs; 8-10 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-2 | derde graad lager onderwijs; 10-12 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-3 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.
-4 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-5 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.  
-6 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
+1 | lager onderwijs; 8-12 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+2 | middelbaar onderwijs; 12-18 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+
+
  
 Lesgever: Lucas Van Hooreweghe
 
 Cursussen (onder voorbehoud)
 
-**JAPAN**: 19/09 – 26/09 – 3/10 – 10/10 – 17/10
+**RUIMTE*: 18/09 – 27/11 (niet tijdens de herfstvakantie)
 
-Kanvas-atelier gaat in september van start met als centraal thema ‘Japan’.
+Kanvas atelier gaat in september van start met als centraal thema ‘Ruimte’.
 De Japanse cultuur is ons niet meer onbekend. Films en tv-programma’s zijn de voornaamste inspiratiebron: Pokémon, Spirited Away,...
 
 Kies uit meer dan tien unieke opdrachten: Teken zelf manga-figuren, maak je eigen Japanse tote-bag, kap een jizo-beeldje uit speksteen, creëer je eigen samurai-outfit,..Je beslist zelf welke techniek of materiaal je wil uitproberen!
