@@ -6,16 +6,15 @@ permalink: /aanbod/
 
 De kostprijs voor een periode van 5 lessen (5x2 vormingsuren) is 55 euro, materiaal en verzekering inbegrepen.
 
-Het atelier is onderverdeeld in 6 niveaus:
+Het atelier is onderverdeeld in 5 niveaus:
 
 Groep | Leeftijd | Wanneer 
 ------------ | ------------ | ------------- 
-1 | tweede graad lager onderwijs; 8-10 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-2 | derde graad lager onderwijs; 10-12 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-3 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.
-4 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
-5 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.  
-6 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
+1 | derde graad lager onderwijs; 10-12 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+2 | eerste graad; 12-14 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.
+3 | tweede graad; 14-16 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur. 
+4 | derde graad; 16-18 jarigen | vindt plaats op woensdag van 13 uur tot 15 uur.  
+5 | KA18+ | vindt plaats op zaterdag van 10 uur tot 12 uur. 
  
 Lesgever: Lucas Van Hooreweghe
 
@@ -40,12 +39,8 @@ Tijdens deze weken draait alles rond oorlog en vrede.
 
 "Make art, not war!"
 
-**ALICE IN WATERLAND**: 16/01 – 23/01 – 30/01 – 6/01 – 13/02
+**FANTASY & GAMES**: 9/01 – 16/01 – 23/01 – 30/01 – 6/02
 
-2019 wordt magisch! 
-Ontdekt de unieke onderwaterwereld van Alice vol creativiteit!
-
-
-**GAMING**: 20/2 – 27/02 – 13/03 – 20/03 – 27/03
+**UNDER WATER**: 20/2 – 27/02 – 13/03 – 20/03 – 27/03
 
 **FOOD**: 24/04 – 8/05 – 15/05 – 22/05 – 29/05
