@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aanbod
-permalink: /aanbod/
+title: Een workshop aanvragen
+permalink: /workshop/
 ---
 
 DEINZE
