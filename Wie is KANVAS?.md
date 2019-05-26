@@ -1,7 +1,7 @@
 ---
 layout: broeinest
-title: Broeinest
-permalink: /broeinest/
+title: Wie is KANVAS?
+permalink: /wieiskanvas/
 left_section: |
   # KANVAS ATELIER
   
