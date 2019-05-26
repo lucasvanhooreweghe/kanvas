@@ -18,15 +18,15 @@ Mail gerust naar <a href="mailto:info@kanvasatelier.be">info@kanvasatelier.be</a
 
 ## ADMINISTRATIE
 
-Postadres: CITROENCITROEN CREATIEF (cfr. KANVAS ATELIER) Ringlaan Zuid 96, DE HAAN<br />
-IBAN:  BE76 7370 4331 5795
+Postadres: Kanvas Atelier vzw 
+Canteclaerplein 2, 9800 DEINZE<br />
+IBAN:  BE47 8901 2433 9580
 
 
 ## MEDEWERKERS
 
 ------------ | ------------ | ------------- 
 Artistieke leiding en coördinatie ateliers | Lucas Van Hooreweghe | <a href="tel:+32498443638">+32 498 44 36 38</a>
-Zakelijke leiding | Tineke Sanders  | <a href="tel:+32475971372">+32 475 97 13 72</a>
 
 
 **VORMGEVING**: Ruben Galle<br />
