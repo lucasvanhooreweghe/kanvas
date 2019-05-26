@@ -20,8 +20,6 @@ right_section: |
   ![Inschrijven](/assets/img/inschrijven/foto.gif)
 ---
 
-_(Hieronder het formulier om in te schrijven :))_
-
 {% include form.html %}
 
 {% include modal.html %}
