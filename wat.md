@@ -11,9 +11,11 @@ Kanvas atelier wil een creatief broeinest zijn voor **jongeren tussen de 8 en 25
 De ideale groep heeft een grootte tussen de 10 en 15 jongeren.
 De uren per jaarschijf zijn indicatief en afhankelijk van het aantal inschrijvingen.
 
-De jongeren werken in periodes van 8 of 10 weken.
+De jongeren werken in periodes van 5 weken.
 
-Iedere periode stelt de begeleider een thema (werken rond) voor.
+Iedere periode stelt de begeleider een thema (werken rond) voor via google classroom.
+Google classroom biedt een online platform om lesmateriaal overzichtelijk te plaatsen.
+
 Binnen dit thema kan de jongere zijn/haar eigen keuzes maken in **materialen/technieken** (werken met) en **beeldaspecten** (werken aan).
 
 De opdrachten zijn zo divers om de interesse van iedere jongere aan te spreken. Er wordt ook op **verschillende moeilijkheidsniveau’s** gewerkt, aangeduid met een gradatie.
