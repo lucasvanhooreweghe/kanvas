@@ -27,5 +27,5 @@ Hieronder alvast de foto's van de making of - posters!
 ![Kanvas Atelier Promo 4](/assets/img/posts/promo/promo_4.jpg)
 
 
-Wil je ook creatief aan de slag? Ben je tussen 12 en 18 jaar? 
+Wil je ook creatief aan de slag? Ben je tussen 8 en 18 jaar? 
 Schrijf je dan nu in voor de atelierwerking op woensdagnamiddag via deze <a href="/inschrijven" title="inschrijven">link</a>! 
